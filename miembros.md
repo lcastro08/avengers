@@ -1,5 +1,5 @@
 # Miembros
-
+* Nyck fury
 * Black panther
 * Black Widow
 * Capitán Marvel
